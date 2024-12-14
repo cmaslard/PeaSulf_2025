@@ -1,0 +1,12 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+## To-Do {.unnumbered}  
+- [x] Create quarto
+- [ ] Biblio
+- [ ] Recover samples
+- [ ] Recover data
+- [ ] Clean and organise the data
+- [ ] Add articles to this quarto document
