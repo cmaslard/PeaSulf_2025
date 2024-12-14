@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PeaSulf 2025",
+    "section": "",
+    "text": "Preface\nSupervisor: Karine Gallardo-Guerrero\nThis project is an extension of the research work carried out by the FILEAS team, with several publications directly related to this subject, presented below:",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#preface",
+    "href": "index.html#preface",
+    "title": "PeaSulf 2025",
+    "section": "",
+    "text": "Bachelet et al. (2024)\nBonnot et al. (2024)\nBonnot et al. (2023)\nHenriet et al. (2021)\nHenriet et al. (2019)\n\n\n\n\n\n\n\nGuide being written\n\n\n\nThis guide is still incomplete. The complete repository (documentation, data, script, etc.) will be available shortly at this link: https://github.com/maslard.corentin/PeaSulf_2025.\n\n\n\n\n\n\n\n\nMore informations about my work :\n\n\n\n\n\n\n\n\n Personal website\n Email\n Github\n Linkedin\n\n\n\n ORCID\n ResearchGate\n Google Scholar\n\n\n\n X (Twitter)\n HAL\n CV",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#licence",
+    "href": "index.html#licence",
+    "title": "PeaSulf 2025",
+    "section": "Licence",
+    "text": "Licence\nThis document is made available under the terms of the Licence Creative Commons Attribution - Non Commercial Use - Share Alike 4.0 International.\n\n\n\n\n\n\n\nBachelet, Fanélie, Myriam Sanchez, Delphine Aimé, Florence Naudé, Nadia Rossin, Alain Ourry, Chrystel Deulvot, et al. 2024. “The Vacuolar Sulfate Transporter &lt;Span Style=\"font-Variant:small-Caps;\"&gt;PsSULTR4&lt;/Span&gt; Is a Key Determinant of Seed Yield and Protein Composition in Pea.” The Plant Journal 119 (6): 2919–36. https://doi.org/10.1111/tpj.16961.\n\n\nBonnot, Titouan, Fanélie Bachelet, Julie Boudet, Christine Le Signor, Emmanuelle Bancel, Vanessa Vernoud, Catherine Ravel, and Karine Gallardo. 2023. “Sulfur in Determining Seed Protein Composition: Present Understanding of Its Interaction with Abiotic Stresses and Future Directions.” Edited by Hideki Takahashi. Journal of Experimental Botany, 6.992, 74 (11): 3276–85. https://doi.org/10.1093/jxb/erad098.\n\n\nBonnot, Titouan, Charlotte Henriet, Delphine Aimé, Jonathan Kreplak, Morgane Térézol, Thierry Balliau, Alain Ourry, Michel Zivy, Vanessa Vernoud, and Karine Gallardo. 2024. “Molecular Signatures and Associated Regulators of the Pea Leaf Response to Sulfur Deficiency and Water Deficit as Revealed by Multi-Omics Analyses.” https://doi.org/10.1101/2024.03.13.582463.\n\n\nHenriet, Charlotte, Delphine Aimé, Morgane Térézol, Anderson Kilandamoko, Nadia Rossin, Lucie Combes-Soia, Valerie Labas, et al. 2019. “Water Stress Combined with Sulfur Deficiency in Pea Affects Yield Components but Mitigates the Effect of Deficiency on Seed Globulin Composition.” Edited by Stanislav Kopriva. Journal of Experimental Botany, 6.992, 70 (16): 4287–4304. https://doi.org/10.1093/jxb/erz114.\n\n\nHenriet, Charlotte, Thierry Balliau, Delphine Aimé, Christine Le Signor, Jonathan Kreplak, Michel Zivy, Karine Gallardo, and Vanessa Vernoud. 2021. “Proteomics of Developing Pea Seeds Reveals a Complex Antioxidant Network Underlying the Response to Sulfur Deficiency and Water Stress.” Edited by Stanislav Kopriva. Journal of Experimental Botany, 6.992, 72 (7): 2611–26. https://doi.org/10.1093/jxb/eraa571.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Bachelet, Fanélie, Myriam Sanchez, Delphine Aimé, Florence Naudé, Nadia\nRossin, Alain Ourry, Chrystel Deulvot, et al. 2024. “The Vacuolar\nSulfate Transporter &lt;Span\nStyle=\"font-Variant:small-Caps;\"&gt;PsSULTR4&lt;/Span&gt;\nIs a Key Determinant of Seed Yield and Protein Composition in\nPea.” The Plant Journal 119 (6): 2919–36. https://doi.org/10.1111/tpj.16961.\n\n\nBonnot, Titouan, Fanélie Bachelet, Julie Boudet, Christine Le Signor,\nEmmanuelle Bancel, Vanessa Vernoud, Catherine Ravel, and Karine\nGallardo. 2023. “Sulfur in Determining Seed Protein Composition:\nPresent Understanding of Its Interaction with Abiotic Stresses and\nFuture Directions.” Edited by Hideki Takahashi. Journal of\nExperimental Botany, 6.992, 74 (11): 3276–85. https://doi.org/10.1093/jxb/erad098.\n\n\nBonnot, Titouan, Charlotte Henriet, Delphine Aimé, Jonathan Kreplak,\nMorgane Térézol, Thierry Balliau, Alain Ourry, Michel Zivy, Vanessa\nVernoud, and Karine Gallardo. 2024. “Molecular Signatures and\nAssociated Regulators of the Pea Leaf Response to Sulfur Deficiency and\nWater Deficit as Revealed by Multi-Omics Analyses.” https://doi.org/10.1101/2024.03.13.582463.\n\n\nHenriet, Charlotte, Delphine Aimé, Morgane Térézol, Anderson\nKilandamoko, Nadia Rossin, Lucie Combes-Soia, Valerie Labas, et al.\n2019. “Water Stress Combined with Sulfur Deficiency in Pea Affects\nYield Components but Mitigates the Effect of Deficiency on Seed Globulin\nComposition.” Edited by Stanislav Kopriva. Journal of\nExperimental Botany, 6.992, 70 (16): 4287–4304. https://doi.org/10.1093/jxb/erz114.\n\n\nHenriet, Charlotte, Thierry Balliau, Delphine Aimé, Christine Le Signor,\nJonathan Kreplak, Michel Zivy, Karine Gallardo, and Vanessa Vernoud.\n2021. “Proteomics of Developing Pea Seeds Reveals a Complex\nAntioxidant Network Underlying the Response to Sulfur Deficiency and\nWater Stress.” Edited by Stanislav Kopriva. Journal of\nExperimental Botany, 6.992, 72 (7): 2611–26. https://doi.org/10.1093/jxb/eraa571.",
+    "crumbs": [
+      "References"
+    ]
+  }
+]
